@@ -2,10 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.logo {
+    width: 275px;
+    height: 40px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
